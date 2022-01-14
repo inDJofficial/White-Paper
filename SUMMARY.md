@@ -8,12 +8,6 @@
   * [2.3. InDJ 솔루션 제안](2.-introduction/2.3.-indj.md)
 * [3. Ecosystem](3.-ecosystem/README.md)
   * [inDJ Service Diagram](3.-ecosystem/indj-service-diagram.md)
-  * [User](3.-ecosystem/user/README.md)
-    * [DJ](3.-ecosystem/user/dj.md)
-    * [Listener](3.-ecosystem/user/listener.md)
-    * [Advertiser ](3.-ecosystem/user/advertiser.md)
-    * [Company inDJ](3.-ecosystem/user/company-indj.md)
-    * [Coin Market](3.-ecosystem/user/coin-market.md)
 * [4. Business Model](4.-business-model/README.md)
   * [Business Model](4.-business-model/business-model.md)
   * [4.1. 수익 분배식](4.-business-model/4.1..md)
@@ -30,8 +24,3 @@
   * [6.4. Team](6.-operation/6.4.-team.md)
 * [7. Disclaimer](7.-disclaimer.md)
 * [8. References](8.-references.md)
-
-## Group 1
-
-* [Page 7](group-1/page-7/README.md)
-  * [5.1. Service Layer](5.-platform-structure/README.md)

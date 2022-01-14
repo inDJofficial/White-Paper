@@ -4,4 +4,36 @@ inDJ 플랫폼 구성은 DJ, Listener, Advertiser, Coin Market 간에 발생한 
 
 
 
-![](../.gitbook/assets/그림5.png)
+![inDJ Service Diagram](../.gitbook/assets/그림5.png)
+
+#### DJ
+
+* DJ는 본인이 생성한 스테이션이 Listener로부터 소비되었을 때 생기는 수익을 분배받기 위해서는 inDJ에 인디토큰(IDJ)을 지불하고 분배 권한을 부여받아야 합니다.&#x20;
+* 콘텐츠가 스트리밍됐을 때 인센티브로서 주어지는 화폐로 인디토큰(IDJ)를 받게 됩니다.&#x20;
+* DJ는 받은 코인을 지갑에 보유 또는 외부 인디토큰(IDJ)이 상장된 Coin Market에서 판매할 수 있습니다.  또한 inDJ로부터 수익 분배 권한을 얻는 데 필요한 인디토큰(IDJ)을 Coin Market에서 구매할 수 있습니다.&#x20;
+
+
+
+#### Listener
+
+DJ가 창작한 콘텐츠 또는 스테이션을 소비 또는 청취하기 위해서는 구독권(Ticket)을 inDJ로부터 구매해야 합니다. 구매 지불 수단으로 인디토큰(IDJ)을 사용하며 이용자 편의를 위해 법정 화폐도 가능합니다.&#x20;
+
+
+
+#### Advertiser&#x20;
+
+플랫폼 내 Display AD 등의 광고를 하기위해 광고료를 지불해야 하며 그 결제 수단으로 인디토큰(IDJ)을 사용합니다. 이용자 편의를 위해 법정 화폐도 가능합니다.&#x20;
+
+
+
+#### Company inDJ
+
+* inDJ는 Service Platform 운영자 측면에서 콘텐츠 소비자인 청취자로부터 구독권(Ticket), 광고주로부터 AD 광고권을 판매하며 그 대가로 인디토큰(IDJ)을 받습니다.&#x20;
+* 회사 수익으로 분류되는 인디토큰(IDJ)은 DJ에게 수익을 배분 시 사용, 사업 운영에 필요한 자금 등으로 쓰입니다.&#x20;
+
+
+
+#### Coin Market
+
+* DJ, inDJ, Listener, Advertiser 모두 인디토큰(IDJ)이 상장된 Coin Market을 이용하여 구매및 판매할 수 있습니다.
+
