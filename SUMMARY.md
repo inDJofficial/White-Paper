@@ -29,17 +29,7 @@
   * [6.3. Unlock 일정 및 시장 공급량](6.-operation/6.3.-unlock.md)
   * [6.4. Team](6.-operation/6.4.-team.md)
 * [7. Disclaimer](7.-disclaimer.md)
-* [Page 2](page-2.md)
-* [Page 1](page-1.md)
-* [8. References](8.-references/README.md)
-  * [텐서플로우 논문](8.-references/undefined.md)
-  * [사용하는 곳](8.-references/undefined-1.md)
-  * [자주하는 질문](8.-references/undefined-2.md)
-  * [용어](8.-references/undefined-3.md)
-  * [랭크, 크기, 타입](8.-references/undefined-4.md)
-  * [텐서플로우 버전](8.-references/undefined-5.md)
-  * [로드맵](8.-references/undefined-6.md)
-* [Page 6](page-6.md)
+* [8. References](8.-references.md)
 
 ## Group 1
 
