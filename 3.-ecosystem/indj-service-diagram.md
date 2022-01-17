@@ -4,7 +4,7 @@ inDJ 플랫폼 구성은 DJ, Listener, Advertiser, Coin Market 간에 발생한 
 
 
 
-![inDJ Service Diagram](../.gitbook/assets/그림5.png)
+![inDJ Service Diagram](<../.gitbook/assets/image (14).png>)
 
 #### DJ
 

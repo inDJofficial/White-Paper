@@ -1,6 +1,6 @@
 # 표지
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 깃허브의 주소는 https://github.com/ 입니다.
 
