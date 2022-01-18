@@ -1,11 +1,11 @@
 # Table of contents
 
 * [표지](README.md)
-* [1. Abstract](1.-abstract.md)
-* [2. Introduction](2.-introduction/README.md)
-  * [2.1. 디지털 창작자의 공유 경제](2.-introduction/2.1..md)
-  * [2.2. 음악 산업과 Pain Point](2.-introduction/2.2.-pain-point.md)
-  * [2.3. InDJ 솔루션 제안](2.-introduction/2.3.-indj.md)
+* [1. 초록](1..md)
+* [2. 소개](2./README.md)
+  * [2.1. 디지털 창작자의 공유 경제](2./2.1..md)
+  * [2.2. 음악 산업과 Pain Point](2./2.2.-pain-point.md)
+  * [2.3. InDJ 솔루션 제안](2./2.3.-indj.md)
 * [3. Ecosystem](3.-ecosystem.md)
 * [4. Business Model](4.-business-model/README.md)
   * [Business Model](4.-business-model/business-model.md)
